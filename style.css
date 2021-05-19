@@ -1,0 +1,26 @@
+.board-container{
+    display: flex;
+    justify-content: center;
+}
+
+/* table{
+    height: 150px;
+    width: 300px;
+} */
+
+/* td{
+    height: 150px;
+    width: 300px;
+} */
+
+td{
+    height: 30px;
+    width: 30px;
+    /* background-color: black; */
+}
+.cell{
+    background-color: gray;
+}
+.shown{
+    background-color: honeydew;
+}
